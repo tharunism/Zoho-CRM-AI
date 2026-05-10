@@ -1,0 +1,39 @@
+{
+  "name": "novacrm-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-Powered CRM Dashboard — Full-stack React app with Claude AI integration, Kanban pipeline, lead scoring, and analytics. Built to demonstrate enterprise SaaS development skills.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^5.2.0"
+  },
+  "keywords": [
+    "crm",
+    "react",
+    "ai",
+    "claude",
+    "anthropic",
+    "dashboard",
+    "saas",
+    "zoho",
+    "lead-management",
+    "sales-pipeline"
+  ],
+  "author": "N. Tharun",
+  "license": "MIT"
+}
